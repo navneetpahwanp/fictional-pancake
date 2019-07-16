@@ -4,3 +4,6 @@ Ingredients:
 2. Cream
 3. Flour
 4. Baking soda
+5. Sugar
+6. Salt
+7. Vanilla
